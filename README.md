@@ -1,2 +1,0 @@
-# pizza
-Thinkful pizza tutorial
